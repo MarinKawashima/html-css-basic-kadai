@@ -1,0 +1,33 @@
+/* テキストは全て中央寄せにしてください。 */
+
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+#google-font{
+    /* h1の文字間は文字の大きさの1.2倍にしてください。
+h1に影を付けてください。影の大きさや色は自由です。
+h1の下に3px（カラー：rgb(115, 115, 114)）の実線を付けてください。 */
+    font-family: "Josefin Sans" sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 3px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#root-fontsize{
+    font-size: 20px;
+}
+
+.color-skyblue{
+    color: skyblue;
+}
+
+.color-pink{
+    color: rgb(255,192,203);
+}
+
+#basic p{
+    font-weight: bold;
+}
